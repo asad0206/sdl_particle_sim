@@ -1,8 +1,16 @@
 # sdl_particle_sim
 Particle sim made with SDL 2
 
-###Image
-![Swarm Image](images/swarm.jpg)
+## Images
 
-###Video
-![In action video](images/screen_record.mp4)
+<div align="center">
+  <img src="images/swarm.jpg" alt="Swarm Image" width="400"/>
+</div>
+
+## Video
+
+<div align="center">
+  <video width="400" controls>
+    <source src="images/screen_record.mp4" type="video/mp4">
+  </video>
+</div>
