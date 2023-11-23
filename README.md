@@ -10,7 +10,7 @@ Particle sim made with SDL 2
 ## Video
 
 <div align="center">
-  <video width="400" controls>
+  <video width="400">
     <source src="images/screen_record.mp4" type="video/mp4">
   </video>
 </div>
