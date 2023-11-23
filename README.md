@@ -3,14 +3,11 @@ Particle sim made with SDL 2
 
 ## Images
 
-<div align="center">
-  <img src="images/swarm.jpg" alt="Swarm Image" width="400"/>
-</div>
+![](images/swarm.jpg)
+Description or caption for the image.
 
 ## Video
 
-<div align="center">
-  <video width="400">
-    <source src="images/screen_record.mp4" type="video/mp4">
-  </video>
-</div>
+![](images/screen_record.mp4)
+
+A brief description of the video or its contents.
